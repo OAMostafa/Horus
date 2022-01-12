@@ -23,6 +23,10 @@
 
  Must Have:
  * Recognize music platofrm link
- * Recognize plain text song request
+ * Recognize plain text song request and commands
  * Search songs on Youtube
- * playback song from Youtube vid
+ * Playback song from Youtube vid
+
+Should Have:
+* Advanced commands such as replay and seek
+* 
