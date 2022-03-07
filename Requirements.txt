@@ -1,0 +1,4 @@
+pafy==0.5.5
+spotipy==2.19.0
+youtube_search_python==1.6.2
+ytdl==1.0.0rc5

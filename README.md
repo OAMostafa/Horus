@@ -18,6 +18,11 @@
  * Apple music
  * Amazon music
 
+# Unorganized notes
+ This program will have very primitive functions for the first edition.
+
+ Later on newer features such as asking if this is the right song or not and more will be added.
+
 # Requirements
  MoSCoW
 
